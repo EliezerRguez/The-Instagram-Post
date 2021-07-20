@@ -7,7 +7,6 @@ div {box-sizing: border-box;}
 .post {background-color: white; margin-top: 50px;}
 .post-header {background-color: white;padding: 10px;display: flex;}
 
-
 /*Iconos header*/
 .icono-html .fa-html5, .icono-botones .fa-ellipsis-v {font-size: 30px;margin: auto;padding: 5px 10px;}
 .icono-botones .fa-ellipsis-v {text-align: right;}
